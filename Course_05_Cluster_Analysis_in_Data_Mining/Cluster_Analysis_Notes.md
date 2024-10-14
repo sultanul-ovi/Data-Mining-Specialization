@@ -34,7 +34,7 @@ In this lesson, you will explore the key concepts and applications of **cluster 
 
 **Key Concepts** include: **similarity measures**, **distance measures**, **high-dimensional clustering**, and **constraint-based clustering**.
 
-### ❓ Guiding Questions
+### ❓ Guiding Questions of Lesson 01
 
 - What is **cluster analysis**, and why is it considered **unsupervised learning**?
 - What are the potential applications of **cluster analysis**?
@@ -58,7 +58,7 @@ In this lesson, you will learn how to compute **similarity** and **distance meas
 
 **Key Concepts** include: **Minkowski distance**, **cosine similarity**, **proximity measures**, and **correlation measures**.
 
-### ❓ Guiding Questions
+### ❓ Guiding Questions of Lesson 02
 
 - Why is it important to use different measures for computing similarity between objects?
 - When should we use **Euclidean**, **Manhattan**, or **Supremum distance**?
@@ -79,7 +79,7 @@ In this lesson, you will explore the concepts and methods of **partitioning-base
 
 **Key Concepts** include: **objective function**, **sum of squared errors (SSE)**, **K-Means++**, and various **kernel functions**.
 
-### ❓ Guiding Questions
+### ❓ Guiding Questions of Lesson 03
 
 - What are **partitioning algorithms** and why are they interesting approaches for cluster analysis?
 - How does the **K-Means clustering method** work, and what makes it efficient?
@@ -101,7 +101,7 @@ In this lesson, you will explore the concepts and methods of **hierarchical clus
 
 **Key Concepts** include: **dendrogram**, **AGNES**, **DIANA**, **BIRCH**, **CURE**, **CHAMELEON**, and **probabilistic hierarchical clustering**.
 
-### ❓ Guiding Questions
+### ❓ Guiding Questions of Lesson 04
 
 - How do **hierarchical clustering algorithms** differ from **partitioning algorithms**?
 - What are the main ideas behind **agglomerative** and **divisive clustering** algorithms?
@@ -125,7 +125,7 @@ In this lesson, you will explore the concepts and methods of **density-based clu
 
 **Key Concepts** include: **density-based clustering**, **DBSCAN**, **density reachability**, **OPTICS**, **core distance**, **reachability distance**, **grid-based clustering**, **STING**, and **CLIQUE**.
 
-### ❓ Guiding Questions
+### ❓ Guiding Questions of Lesson 05
 
 - Why does **density-based clustering** generate clusters with arbitrary shapes?
 - When is **density-based clustering** preferred over **partitioning clustering**?
@@ -148,7 +148,7 @@ In this lesson, you will explore various **clustering validation** methods and l
 
 **Key Concepts** include: **clustering validation**, **clustering evaluation**, **cluster quality**, **external measures**, **internal measures**, **relative measures**, **cluster stability**, and **clustering tendency**.
 
-### ❓ Guiding Questions
+### ❓ Guiding Questions of Lesson 06
 
 - What are the major issues in **clustering validation** and **assessment**?
 - Why do we need external, internal, and relative measures in clustering evaluation?
