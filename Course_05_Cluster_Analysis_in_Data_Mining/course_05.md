@@ -88,3 +88,26 @@ In this lesson, you will explore the concepts and methods of **partitioning-base
 - How does the **Kernel K-Means** method extend **K-Means** for **non-linear data**?
 
 ---
+
+## 🏗️ **Lesson 4: Hierarchical Clustering Methods**
+
+In this lesson, you will explore the concepts and methods of **hierarchical clustering**, focusing on both **agglomerative** and **divisive** clustering algorithms. You will:
+
+- ✅ Understand the basic principles of **hierarchical clustering algorithms**, including their structure and process.
+- 🔑 Learn how **agglomerative** and **divisive clustering** methods operate and how they differ from each other.
+- 🛠 Explore advanced hierarchical clustering methods like **BIRCH**, **CURE**, and **CHAMELEON**, and understand their advantages over basic hierarchical approaches.
+- 💡 Grasp the concept of **probabilistic hierarchical clustering** and its application using **generative models** like the **Gaussian distribution**.
+
+**Key Concepts** include: **dendrogram**, **AGNES**, **DIANA**, **BIRCH**, **CURE**, **CHAMELEON**, and **probabilistic hierarchical clustering**.
+
+### ❓ Guiding Questions
+
+- How do **hierarchical clustering algorithms** differ from **partitioning algorithms**?
+- What are the main ideas behind **agglomerative** and **divisive clustering** algorithms?
+- What are the strengths and weaknesses of **hierarchical clustering**, and why are extensions like **BIRCH**, **CURE**, and **CHAMELEON** needed?
+- How does the **BIRCH algorithm** work, and why is it considered a **micro-clustering-based approach**?
+- What makes the **CURE algorithm** unique in generating well-scattered representative points?
+- How does **CHAMELEON** use graph partitioning on the **KNN graph** to find clusters?
+- What is **probabilistic hierarchical clustering**, and how does it differ from traditional hierarchical methods?
+
+---
