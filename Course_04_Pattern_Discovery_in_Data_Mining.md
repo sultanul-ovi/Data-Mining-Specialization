@@ -62,6 +62,7 @@ In this lesson, you will explore efficient methods for **frequent pattern mining
 - When is it more beneficial to mine **closed patterns** directly instead of all frequent patterns?
 
 ---
+
 ## 🧠 **Lesson 3: Pattern Evaluation**
 
 In this lesson, you will explore how to effectively evaluate patterns and understand what makes certain patterns **interesting**. You will:
@@ -81,8 +82,8 @@ In this lesson, you will explore how to effectively evaluate patterns and unders
 - What is **null-invariance**, and why is it critical for effective pattern evaluation?
 - How do different **interestingness measures** compare, and which ones work well in specific conditions?
 
-
 ---
+
 ## 🌐 **Lesson 4: Mining Diverse Patterns**
 
 In this lesson, you will explore a range of **diverse patterns** that enhance the utility of pattern discovery. You will:
@@ -105,5 +106,90 @@ In this lesson, you will explore a range of **diverse patterns** that enhance th
 
 ---
 
+## 🧩 **Lesson 5: Sequential Pattern Mining**
+
+In this lesson, you will explore the key concepts and methods of **sequential pattern mining**, focusing on efficient techniques to discover **frequent subsequences** in large databases. You will:
+
+- ✅ Understand the concept of **sequential patterns** and why they are crucial in various applications.
+- 🔑 Learn three efficient methods for sequential pattern mining:
+  - **GSP** (Apriori-based sequential pattern mining).
+  - **SPADE** (vertical data format-based sequential pattern mining).
+  - **PrefixSpan** (pattern-growth-based sequential pattern mining).
+- 🛠 Explore the concept of **closed sequential patterns** and learn how **CloSpan** efficiently mines such patterns.
+
+**Key Concepts** include: **sequential pattern mining**, **GSP**, **SPADE**, **PrefixSpan**, **closed sequential patterns**, and **CloSpan**.
+
+### ❓ Guiding Questions for Lesson 05
+
+- Why is **sequential pattern mining** important in many real-world applications?
+- How does **Apriori-based sequential pattern mining** work, and what are its strengths and weaknesses?
+- What are the advantages of using the **vertical data format** (SPADE) for sequential pattern mining?
+- How does **PrefixSpan** work, and what makes the **pattern-growth approach** efficient in sequential pattern mining?
+- Why is it important to mine **closed sequential patterns**, and how does **CloSpan** achieve this without first mining the entire set of sequential patterns?
+
+---
+
+## 🌍 **Lesson 6: Pattern Mining Applications - Mining Spatiotemporal and Trajectory Patterns**
+
+In this lesson, you will explore the application of pattern mining in the context of **spatiotemporal** and **trajectory patterns**. You will:
+
+- ✅ Understand that **pattern mining** has broad applications, with **spatiotemporal** and **trajectory pattern mining** being one of its many use cases.
+- 🔑 Learn the concepts and methods for mining **spatial associations**, **spatial colocation patterns**, and **patterns across multiple trajectories**.
+- 🛠 Explore methods for mining **semantics-rich movement patterns** and **periodic movement patterns**.
+
+**Key Concepts** include: **spatial associations**, **spatial colocation patterns**, **trajectory patterns**, **t-patterns**, **moving object clusters**, **trajectory clustering**, and **semantics-rich movement patterns**.
+
+### ❓ Guiding Questions for Lesson 06
+
+- Why is it important to mine **spatiotemporal** and **trajectory patterns** in various applications?
+- What are **spatial associations**, and how can they be mined efficiently?
+- What are **spatial colocation patterns**, and how do they differ from spatial associations?
+- What meaningful patterns can be mined from **multiple trajectories**, and why is the **swarm** definition more flexible than **flock** or **convoy**?
+- Why is the **partition-and-group framework** more effective for **trajectory clustering**?
+- How can **movement patterns** be enriched with more **semantics**, and how can **periodic movement patterns** be uncovered from sparse datasets?
+
+---
+
+## 📝 **Lesson 7: Pattern Mining Applications - Mining Quality Phrases from Text Data**
+
+In this lesson, you will explore the application of **phrase mining** as a type of pattern mining in **text data**. You will:
+
+- ✅ Understand the importance of **phrase mining** in text mining and why it's desirable to develop methods with minimal or no training effort.
+- 🔑 Learn about previously developed **topic-modeling** related phrase-mining methods and their limitations.
+- 🛠 Explore two newer phrase mining methods, **ToPMine** and **SegPhrase**, and understand how they can generate **quality phrases** from large text corpora with minimal training.
+
+**Key Concepts** include: **phrase mining**, **ToPMine**, **SegPhrase**, **topic-modeling**, **KERT**, and **phrasal segmentation**.
+
+### ❓ Guiding Questions for Lesson 07
+
+- What is the relationship between **pattern discovery** and **phrase mining**, and how do newer methods make the links more explicit?
+- Why is it important to develop **phrase mining** methods that require minimal training efforts?
+- What are the major challenges of using **topic-modeling** related methods like **TNG**, **TurboTopic**, and **KERT** for phrase mining?
+- What are the four criteria for evaluating phrase quality in **KERT**, and why are they relevant to **ToPMine** and **SegPhrase**?
+- How does **ToPMine** generate quality phrases without training data?
+- What is the role of **phrasal segmentation** in improving phrase mining quality?
+- Why is **SegPhrase** able to generate even better quality phrases than **ToPMine**, and how does it effectively use a small set of training data?
+
+---
+
+## 🚀 **Lesson 8: Advanced Topics on Pattern Discovery**
+
+In this lesson, you will explore several advanced topics in **pattern discovery**, covering various cutting-edge applications and research areas. You will:
+
+- ✅ Understand a wide range of **advanced topics** in pattern discovery, including mining frequent patterns in **data streams**, software bug mining, image analysis, and **privacy-preserving pattern mining**.
+- 🔑 Learn methods for **mining frequent patterns** in data streams, with a focus on overcoming the challenges of stream data mining.
+- 🛠 Explore pattern discovery for **software bug mining**, such as identifying **copy-and-paste bugs**.
+- 💡 Discover how pattern discovery applies to **image analysis** and how it can help identify critical components.
+- 🛡 Understand the importance of **privacy** in pattern discovery and learn about **privacy-preserving pattern mining** techniques.
+
+**Key Concepts** include: **stream data mining**, **lossy counting**, **software bug mining**, **copy-and-paste bugs**, **image analysis**, **privacy-preserving pattern mining**, **k-anonymity**, and **differential privacy**.
+
+### ❓ Guiding Questions for Lesson 08
+
+- Why is it challenging to mine frequent patterns in **data streams**, and how does the **lossy counting algorithm** ensure error bounds?
+- How can pattern discovery be applied to **software bug mining**, particularly in detecting **copy-and-paste bugs**?
+- How is **pattern mining** useful for **image analysis**, and can you provide an example where it helps identify key components?
+- Why is it essential to ensure **privacy** in pattern mining, and what are some techniques for **privacy-preserving pattern mining**?
+- What are some exciting research frontiers in pattern discovery that could lead to **new applications**?
 
 ---
