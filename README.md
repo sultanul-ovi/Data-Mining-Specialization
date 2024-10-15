@@ -31,13 +31,13 @@ The capstone project involves solving real-world data mining challenges using Ye
 - Statistical approaches to text mining
 - Pattern finding and knowledge discovery in text data
 
-### 4. Pattern Discovery in Data Mining (17 hours)
+### 4. Pattern Discovery in Data Mining (17 hours) DONE
 
 - General data mining concepts
 - Scalable pattern discovery methods
 - Mining diverse patterns, including sequential and sub-graph patterns
 
-### 5. Cluster Analysis in Data Mining (16 hours)
+### 5. Cluster Analysis in Data Mining (16 hours) DONE
 
 - Clustering methodologies and algorithms
 - Partitioning, hierarchical, and density-based methods
