@@ -14,53 +14,31 @@ This specialization focuses on:
 
 The capstone project involves solving real-world data mining challenges using Yelp restaurant review data.
 
-## Course List
-
-### 1. Data Visualization (15 hours)
+## 1. Data Visualization (15 hours)
 
 - Effective data visualization techniques
 - Using Tableau and other visualization systems
 
-### 2. Text Retrieval and Search Engines (30 hours)
+## 2. Text Retrieval and Search Engines (30 hours)
 
 - Search engine technologies
 - Text data analysis and pattern discovery
 
-### 3. Text Mining and Analytics (33 hours)
+## 3. Text Mining and Analytics (33 hours)
 
 - Statistical approaches to text mining
 - Pattern finding and knowledge discovery in text data
 
-### 4. Pattern Discovery in Data Mining (17 hours) DONE
+## 4. Pattern Discovery in Data Mining
 
-- General data mining concepts
-- Scalable pattern discovery methods
-- Mining diverse patterns, including sequential and sub-graph patterns
+![Project Logo](Course_04_Certificate.jpg)
 
-### 5. Cluster Analysis in Data Mining (16 hours) DONE
+## 5. Cluster Analysis in Data Mining
 
-- Clustering methodologies and algorithms
-- Partitioning, hierarchical, and density-based methods
-- Clustering validation and evaluation
+![Project Logo](Course_05_Certificate.jpg)
 
-### 6. Data Mining Project (10 hours)
+## 6. Data Mining Project (10 hours)
 
 - Application of learned techniques to real-world challenges
 - Analysis of Yelp review data set
-- Tasks include:
-  1. Opinion visualization
-  2. Cuisine map construction
-  3. Popular dish discovery
-  4. Restaurant recommendation
-
-## Project Workflow
-
-- Data preprocessing
-- Data exploration
-- Data analysis
-- Method improvement
-- Result presentation
-
-Students will combine multiple algorithms, experiment with problem-solving approaches, and are encouraged to explore their own ideas.
-
-Final deliverables include task-specific reports and a consolidated report, both peer-graded.
+- Tasks include: Opinion visualization, Cuisine map construction, Popular dish discovery, Restaurant recommendation
